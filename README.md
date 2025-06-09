@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Rahul Krishna<br>💻 Full-Stack Developer | 🚀 Java & Spring Boot Enthusiast | 🌐 Passionate about Web Development<br><br>🔹 Skilled in Java, Spring Boot,React, HTML, CSS, JavaScript, Node.js<br>🔹 Interested in building scalable web applications & backend systems<br>🔹 Always learning and exploring new technologies<br><br>📌 Current Focus: Enhancing my skills in Spring Boot & Full-Stack Development<br>📂 Projects: Check out my repositories to see what I'm working on!<br>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Itzzmerahul)](https://github.com/Izzmerahul/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Itzzmerahul)](https://github.com/Itzzmerahul/github-readme-stats)
 
 
 ## 🌐 Socials:
