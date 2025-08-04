@@ -3,8 +3,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/<Itzzmerahul>/count.svg)
 
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Itzzmerahul)](https://github.com/Itzzmerahul/github-readme-stats) -->
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Itzzmerahul)](https://github.com/Itzzmerahul/github-readme-stats)
 
 
 ## 🌐 Socials:
